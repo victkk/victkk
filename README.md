@@ -1,7 +1,7 @@
 ## Abstract
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=songquanpeng&show_icons=true&hide_border=true" alt="JustSong's Github Stats" width="58%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=songquanpeng&layout=compact&hide_border=true&langs_count=10" alt="JustSong's Top Langs" width="37%" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=victkk&show_icons=true&hide_border=true" alt="Zicheng Zhang's Github Stats" width="58%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victkk&layout=compact&hide_border=true&langs_count=10" alt="Zicheng Zhang's Top Langs" width="37%" /> 
 </p>
 
 <a href="https://github.com/songquanpeng/stats-cards">
@@ -17,31 +17,31 @@
 ## Top Projects
 |Project|Description|Stars|
 |:--|:--|:--|
-|[one-api](https://github.com/songquanpeng/one-api)|OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.|`17265⭐`|
-|[message-pusher](https://github.com/songquanpeng/message-pusher)|搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用|`2535⭐`|
-|[go-file](https://github.com/songquanpeng/go-file)|基于 Go 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面. File sharing tool based on Go.|`917⭐`|
-|[pytorch-template](https://github.com/songquanpeng/pytorch-template)|To be the world's best PyTorch project template.|`385⭐`|
-|[wechat-server](https://github.com/songquanpeng/wechat-server)|微信公众号的后端，为其他系统提供微信登录验证功能|`360⭐`|
-|[stats-cards](https://github.com/songquanpeng/stats-cards)|在 README 中展示你在知乎，GitHub，B 站，LeetCode，掘金，CSDN，牛客等网站的数据，也可用于服务状态监控. Show your LeetCode & GitHub stats in GitHub Profile.|`278⭐`|
-|[pronunciation-corrector](https://github.com/songquanpeng/pronunciation-corrector)|拯救你的英语发音，告别因发音错误带来的尴尬！|`204⭐`|
-|[gin-template](https://github.com/songquanpeng/gin-template)|用于 Gin & React 项目的模板. Template for Gin & React projects.|`200⭐`|
-|[blog](https://github.com/songquanpeng/blog)|基于 Node.js 的个人博客系统. Node.js based blog system.|`61⭐`|
-|[pytorch-deployment](https://github.com/songquanpeng/pytorch-deployment)|A template for rapid deployment of PyTorch models.|`46⭐`|
+|[-](https://github.com/victkk/-)|None|`0⭐`|
+|[7002_offseason](https://github.com/victkk/7002_offseason)|None|`0⭐`|
+|[demo-repo](https://github.com/victkk/demo-repo)|None|`0⭐`|
+|[ffzhixue](https://github.com/victkk/ffzhixue)|None|`0⭐`|
+|[frc](https://github.com/victkk/frc)|code I write while learning programing for frc|`0⭐`|
+|[fudan-OOP-2024spring](https://github.com/victkk/fudan-OOP-2024spring)|None|`0⭐`|
+|[fudan-program-design-assignment](https://github.com/victkk/fudan-program-design-assignment)|None|`0⭐`|
+|[learn-C-the-hard-way](https://github.com/victkk/learn-C-the-hard-way)|None|`0⭐`|
+|[Renesas_diansai](https://github.com/victkk/Renesas_diansai)|None|`0⭐`|
+|[SFML-snake](https://github.com/victkk/SFML-snake)|A snake game created with C++ and lib SFML|`0⭐`|
 
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
-|[one-api](https://github.com/songquanpeng/one-api)|OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.|![2024-08-17 01:29:51](https://img.shields.io/badge/2024--08--17-01%3A29%3A51-brightgreen?style=flat-square)|
-|[songquanpeng](https://github.com/songquanpeng/songquanpeng)|Automatically update your GitHub profile with GitHub Actions.|![2024-08-11 20:30:48](https://img.shields.io/badge/2024--08--11-20%3A30%3A48-brightgreen?style=flat-square)|
-|[rest-server](https://github.com/songquanpeng/rest-server)|General server for toy projects.|![2024-07-06 13:49:53](https://img.shields.io/badge/2024--07--06-13%3A49%3A53-brightgreen?style=flat-square)|
-|[stats-cards](https://github.com/songquanpeng/stats-cards)|在 README 中展示你在知乎，GitHub，B 站，LeetCode，掘金，CSDN，牛客等网站的数据，也可用于服务状态监控. Show your LeetCode & GitHub stats in GitHub Profile.|![2024-07-03 08:33:57](https://img.shields.io/badge/2024--07--03-08%3A33%3A57-brightgreen?style=flat-square)|
-|[go-file](https://github.com/songquanpeng/go-file)|基于 Go 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面. File sharing tool based on Go.|![2024-04-19 17:10:41](https://img.shields.io/badge/2024--04--19-17%3A10%3A41-brightgreen?style=flat-square)|
-|[openai-mocker](https://github.com/songquanpeng/openai-mocker)|一个模拟 OpenAI API 的 mock server，用以 One API 的压测|![2024-03-14 06:41:50](https://img.shields.io/badge/2024--03--14-06%3A41%3A50-brightgreen?style=flat-square)|
-|[message-pusher](https://github.com/songquanpeng/message-pusher)|搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用|![2024-03-02 22:24:18](https://img.shields.io/badge/2024--03--02-22%3A24%3A18-brightgreen?style=flat-square)|
-|[gin-template](https://github.com/songquanpeng/gin-template)|用于 Gin & React 项目的模板. Template for Gin & React projects.|![2024-02-29 16:44:51](https://img.shields.io/badge/2024--02--29-16%3A44%3A51-brightgreen?style=flat-square)|
-|[wechat-server](https://github.com/songquanpeng/wechat-server)|微信公众号的后端，为其他系统提供微信登录验证功能|![2023-12-19 08:14:46](https://img.shields.io/badge/2023--12--19-08%3A14%3A46-brightgreen?style=flat-square)|
-|[one-proxy](https://github.com/songquanpeng/one-proxy)|轻松管理你的众多订阅，提供一个固定的订阅地址。|![2023-12-19 08:14:30](https://img.shields.io/badge/2023--12--19-08%3A14%3A30-brightgreen?style=flat-square)|
+|[victkk.github.io](https://github.com/victkk/victkk.github.io)|None|![2024-08-20 17:45:51](https://img.shields.io/badge/2024--08--20-17%3A45%3A51-brightgreen?style=flat-square)|
+|[7002_offseason](https://github.com/victkk/7002_offseason)|None|![2024-08-18 23:15:13](https://img.shields.io/badge/2024--08--18-23%3A15%3A13-brightgreen?style=flat-square)|
+|[SFML-snake](https://github.com/victkk/SFML-snake)|A snake game created with C++ and lib SFML|![2024-06-15 20:20:47](https://img.shields.io/badge/2024--06--15-20%3A20%3A47-brightgreen?style=flat-square)|
+|[Renesas_diansai](https://github.com/victkk/Renesas_diansai)|None|![2024-04-15 16:21:45](https://img.shields.io/badge/2024--04--15-16%3A21%3A45-brightgreen?style=flat-square)|
+|[fudan-OOP-2024spring](https://github.com/victkk/fudan-OOP-2024spring)|None|![2024-04-12 17:56:12](https://img.shields.io/badge/2024--04--12-17%3A56%3A12-brightgreen?style=flat-square)|
+|[frc](https://github.com/victkk/frc)|code I write while learning programing for frc|![2024-01-26 10:27:40](https://img.shields.io/badge/2024--01--26-10%3A27%3A40-brightgreen?style=flat-square)|
+|[learn-C-the-hard-way](https://github.com/victkk/learn-C-the-hard-way)|None|![2024-01-09 12:19:47](https://img.shields.io/badge/2024--01--09-12%3A19%3A47-brightgreen?style=flat-square)|
+|[fudan-program-design-assignment](https://github.com/victkk/fudan-program-design-assignment)|None|![2023-12-06 22:54:04](https://img.shields.io/badge/2023--12--06-22%3A54%3A04-brightgreen?style=flat-square)|
+|[demo-repo](https://github.com/victkk/demo-repo)|None|![2023-10-08 20:57:54](https://img.shields.io/badge/2023--10--08-20%3A57%3A54-brightgreen?style=flat-square)|
+|[ffzhixue](https://github.com/victkk/ffzhixue)|None|![2022-05-29 19:12:16](https://img.shields.io/badge/2022--05--29-19%3A12%3A16-brightgreen?style=flat-square)|
 
 
 
-*Last updated on: 2024-08-18 20:32:42*
+*Last updated on: 2024-08-20 17:57:20*
