@@ -12,7 +12,6 @@
 |[7002_offseason](https://github.com/victkk/7002_offseason)|Code for 7002 2024offseason|`0⭐`|
 |[demo-repo](https://github.com/victkk/demo-repo)|None|`0⭐`|
 |[ffzhixue](https://github.com/victkk/ffzhixue)|None|`0⭐`|
-|[frc](https://github.com/victkk/frc)|code I write while learning programing for frc|`0⭐`|
 |[fudan-OOP-2024spring](https://github.com/victkk/fudan-OOP-2024spring)|None|`0⭐`|
 |[fudan-program-design-assignment](https://github.com/victkk/fudan-program-design-assignment)|None|`0⭐`|
 |[Renesas_diansai](https://github.com/victkk/Renesas_diansai)|None|`0⭐`|
@@ -27,11 +26,10 @@
 |[SFML-snake](https://github.com/victkk/SFML-snake)|A snake game created with C++ and lib SFML|![2024-06-15 20:20:47](https://img.shields.io/badge/2024--06--15-20%3A20%3A47-brightgreen?style=flat-square)|
 |[Renesas_diansai](https://github.com/victkk/Renesas_diansai)|None|![2024-04-15 16:21:45](https://img.shields.io/badge/2024--04--15-16%3A21%3A45-brightgreen?style=flat-square)|
 |[fudan-OOP-2024spring](https://github.com/victkk/fudan-OOP-2024spring)|None|![2024-04-12 17:56:12](https://img.shields.io/badge/2024--04--12-17%3A56%3A12-brightgreen?style=flat-square)|
-|[frc](https://github.com/victkk/frc)|code I write while learning programing for frc|![2024-01-26 10:27:40](https://img.shields.io/badge/2024--01--26-10%3A27%3A40-brightgreen?style=flat-square)|
 |[fudan-program-design-assignment](https://github.com/victkk/fudan-program-design-assignment)|None|![2023-12-06 22:54:04](https://img.shields.io/badge/2023--12--06-22%3A54%3A04-brightgreen?style=flat-square)|
 |[demo-repo](https://github.com/victkk/demo-repo)|None|![2023-10-08 20:57:54](https://img.shields.io/badge/2023--10--08-20%3A57%3A54-brightgreen?style=flat-square)|
 |[ffzhixue](https://github.com/victkk/ffzhixue)|None|![2022-05-29 19:12:16](https://img.shields.io/badge/2022--05--29-19%3A12%3A16-brightgreen?style=flat-square)|
 
 
 
-*Last updated on: 2024-08-20 18:07:50*
+*Last updated on: 2024-08-20 18:13:21*
