@@ -14,6 +14,7 @@
 |[demo-repo](https://github.com/victkk/demo-repo)|None|`0⭐`|
 |[ffzhixue](https://github.com/victkk/ffzhixue)|None|`0⭐`|
 |[fudan-program-design-assignment](https://github.com/victkk/fudan-program-design-assignment)|None|`0⭐`|
+|[GT-slam](https://github.com/victkk/GT-slam)|None|`0⭐`|
 |[Renesas_diansai](https://github.com/victkk/Renesas_diansai)|None|`0⭐`|
 |[SFML-snake](https://github.com/victkk/SFML-snake)|Snake game created with C++ and SFML for OOP PJ at Fudan University|`0⭐`|
 |[victkk.github.io](https://github.com/victkk/victkk.github.io)|None|`0⭐`|
@@ -21,6 +22,7 @@
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
+|[GT-slam](https://github.com/victkk/GT-slam)|None|![2025-01-11 22:55:30](https://img.shields.io/badge/2025--01--11-22%3A55%3A30-brightgreen?style=flat-square)|
 |[SFML-snake](https://github.com/victkk/SFML-snake)|Snake game created with C++ and SFML for OOP PJ at Fudan University|![2025-01-05 16:58:50](https://img.shields.io/badge/2025--01--05-16%3A58%3A50-brightgreen?style=flat-square)|
 |[ADAS-vue-XinCe](https://github.com/victkk/ADAS-vue-XinCe)|None|![2024-11-17 10:56:00](https://img.shields.io/badge/2024--11--17-10%3A56%3A00-brightgreen?style=flat-square)|
 |[Renesas_diansai](https://github.com/victkk/Renesas_diansai)|None|![2024-08-23 16:01:30](https://img.shields.io/badge/2024--08--23-16%3A01%3A30-brightgreen?style=flat-square)|
@@ -32,4 +34,4 @@
 
 
 
-*Last updated on: 2025-01-05 20:13:45*
+*Last updated on: 2025-01-12 20:15:05*
