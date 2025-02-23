@@ -11,6 +11,7 @@
 |:--|:--|:--|
 |[7002_offseason](https://github.com/victkk/7002_offseason)|Code for 7002 2024offseason|`0⭐`|
 |[ADAS-vue-XinCe](https://github.com/victkk/ADAS-vue-XinCe)|None|`0⭐`|
+|[computer_organization_architecture](https://github.com/victkk/computer_organization_architecture)|None|`0⭐`|
 |[demo-repo](https://github.com/victkk/demo-repo)|None|`0⭐`|
 |[ffzhixue](https://github.com/victkk/ffzhixue)|None|`0⭐`|
 |[fudan-program-design-assignment](https://github.com/victkk/fudan-program-design-assignment)|None|`0⭐`|
@@ -22,8 +23,9 @@
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
+|[computer_organization_architecture](https://github.com/victkk/computer_organization_architecture)|None|![2025-02-21 09:18:27](https://img.shields.io/badge/2025--02--21-09%3A18%3A27-brightgreen?style=flat-square)|
+|[SFML-snake](https://github.com/victkk/SFML-snake)|Snake game created with C++ and SFML for OOP PJ at Fudan University|![2025-02-18 00:02:42](https://img.shields.io/badge/2025--02--18-00%3A02%3A42-brightgreen?style=flat-square)|
 |[GT-slam](https://github.com/victkk/GT-slam)|None|![2025-01-11 22:55:30](https://img.shields.io/badge/2025--01--11-22%3A55%3A30-brightgreen?style=flat-square)|
-|[SFML-snake](https://github.com/victkk/SFML-snake)|Snake game created with C++ and SFML for OOP PJ at Fudan University|![2025-01-05 16:58:50](https://img.shields.io/badge/2025--01--05-16%3A58%3A50-brightgreen?style=flat-square)|
 |[ADAS-vue-XinCe](https://github.com/victkk/ADAS-vue-XinCe)|None|![2024-11-17 10:56:00](https://img.shields.io/badge/2024--11--17-10%3A56%3A00-brightgreen?style=flat-square)|
 |[Renesas_diansai](https://github.com/victkk/Renesas_diansai)|None|![2024-08-23 16:01:30](https://img.shields.io/badge/2024--08--23-16%3A01%3A30-brightgreen?style=flat-square)|
 |[7002_offseason](https://github.com/victkk/7002_offseason)|Code for 7002 2024offseason|![2024-08-21 07:38:14](https://img.shields.io/badge/2024--08--21-07%3A38%3A14-brightgreen?style=flat-square)|
@@ -34,4 +36,4 @@
 
 
 
-*Last updated on: 2025-02-16 20:15:48*
+*Last updated on: 2025-02-23 20:13:50*
