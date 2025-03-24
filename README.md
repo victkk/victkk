@@ -2,5 +2,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victkk&theme=radical&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![victkk's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=victkk)](https://github.com/anuraghazra/github-readme-stats)
+[![victkk's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=victkk&range=all_time)](https://github.com/anuraghazra/github-readme-stats)
 
